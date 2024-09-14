@@ -36,3 +36,5 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 </div>
 
 ### ✍🏻 Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
