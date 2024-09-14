@@ -37,4 +37,8 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 
 ### ✍🏻 Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Subscribe to Youtube RSS Feeds](https://m0streng0.com/posts/2024/09/subscribe-to-youtube-rss-feeds/)
+- [My Server - Raspberry Pi 4](https://m0streng0.com/posts/2024/02/my-server-raspberry-pi-4/)
+- [Why create a website?](https://m0streng0.com/posts/2023/11/why-create-a-website/)
+- [Why M0streng0 as a pseudonym?](https://m0streng0.com/posts/2023/11/why-m0streng0-as-a-pseudonym/)
 <!-- BLOG-POST-LIST:END -->
