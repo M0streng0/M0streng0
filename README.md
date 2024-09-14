@@ -3,15 +3,9 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://fosstodon.org/@M0streng0">
-    <img src="https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
-  </a>
-  <a href="https://m0streng0.com/">
-    <img src="https://img.shields.io/badge/Website-teal?style=for-the-badge&logo=retroarch&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://tryhackme.com/p/M0streng0">
-    <img src="https://img.shields.io/badge/Tryhackme-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  <a href="https://fosstodon.org/@M0streng0"><img src="https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/></a>
+  <a href="https://m0streng0.com/"><img src="https://img.shields.io/badge/Website-teal?style=for-the-badge&logo=retroarch&logoColor=white" alt="Website Badge"/></a>
+  <a href="https://tryhackme.com/p/M0streng0"><img src="https://img.shields.io/badge/Tryhackme-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/></a>
 </div>
 
 <h1>
