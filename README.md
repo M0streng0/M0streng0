@@ -31,9 +31,9 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 
 ### ✍🏻 Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Website 2.0](https://m0streng0.com/posts/website2.0/)
 - [Convert OVA to QCOW2](https://m0streng0.com/posts/convert-ova-to-qcow2/)
 - [Sync KOReader with Dropbox](https://m0streng0.com/posts/sync-koreader-stats-dropbox/)
 - [Upgrade Moodle Docker](https://m0streng0.com/posts/upgrade-moodle-docker/)
 - [Subscribe to Youtube RSS Feeds](https://m0streng0.com/posts/subscribe-to-youtube-rss-feeds/)
-- [Minimizing writes to SD-card](https://m0streng0.com/posts/minimizing-writes-to-sdcard/)
 <!-- BLOG-POST-LIST:END -->
