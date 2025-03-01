@@ -32,7 +32,6 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 ### ✍🏻 Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Website 2.0](https://m0streng0.com/posts/website2.0/)
-- [Upgrade Moodle Docker](https://m0streng0.com/posts/upgrade-moodle-docker/)
 - [My Server - Raspberry Pi 4](https://m0streng0.com/posts/my-server/)
 - [Why create a website?](https://m0streng0.com/posts/why-this/)
 - [Why M0streng0 as a pseudonym?](https://m0streng0.com/posts/why-m0streng0/)
