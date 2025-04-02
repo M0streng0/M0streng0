@@ -31,8 +31,9 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 
 ### ✍🏻 The newest thing on my site :
 <!-- BLOG-POST-LIST:START -->
-- [Website 2.0](https://m0streng0.com/posts/website2.0/)
-- [My Server - Raspberry Pi 4](https://m0streng0.com/posts/my-server/)
-- [Why create a website?](https://m0streng0.com/posts/why-this/)
-- [Why M0streng0 as a pseudonym?](https://m0streng0.com/posts/why-m0streng0/)
+- [Cosmic — Alpha 6](https://m0streng0.com/posts/cosmic-alpha-6/)
+- [Lumon Terminal Pro](https://m0streng0.com/links/lumon-terminal-pro/)
+- [The Three-Body Problem](https://m0streng0.com/books/the-three-body-problem/)
+- [Wi-Fi Hotspot in Linux](https://m0streng0.com/tutorials/wifi-hotspot-linux/)
+- [Ensaio Sobre a Cegueira](https://m0streng0.com/books/ensaio-sobre-a-cegueira/)
 <!-- BLOG-POST-LIST:END -->
