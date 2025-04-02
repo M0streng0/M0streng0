@@ -29,7 +29,7 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-### ✍🏻 Blog Posts :
+### ✍🏻 The newest thing on my site :
 <!-- BLOG-POST-LIST:START -->
 - [Website 2.0](https://m0streng0.com/posts/website2.0/)
 - [My Server - Raspberry Pi 4](https://m0streng0.com/posts/my-server/)
