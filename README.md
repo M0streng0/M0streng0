@@ -32,9 +32,9 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 
 ### ✍🏻 The newest thing on my site :
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Forest](https://m0streng0.com/books/the-dark-forest/)
 - [Cosmic — Alpha 6](https://m0streng0.com/posts/cosmic-alpha-6/)
 - [Lumon Terminal Pro](https://m0streng0.com/links/lumon-terminal-pro/)
 - [The Three-Body Problem](https://m0streng0.com/books/the-three-body-problem/)
 - [Wi-Fi Hotspot in Linux](https://m0streng0.com/tutorials/wifi-hotspot-linux/)
-- [Ensaio Sobre a Cegueira](https://m0streng0.com/books/ensaio-sobre-a-cegueira/)
 <!-- BLOG-POST-LIST:END -->
