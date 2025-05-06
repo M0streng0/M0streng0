@@ -32,9 +32,9 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 
 ### ✍🏻 The newest thing on my site :
 <!-- BLOG-POST-LIST:START -->
+- [My Nixos Experience](https://m0streng0.com/posts/my-nixos-experience/)
 - [Black Mirror](https://m0streng0.com/tvshows/black-mirror/)
 - [The Dark Forest](https://m0streng0.com/books/the-dark-forest/)
 - [Cosmic — Alpha 6](https://m0streng0.com/posts/cosmic-alpha-6/)
 - [Lumon Terminal Pro](https://m0streng0.com/links/lumon-terminal-pro/)
-- [The Three-Body Problem](https://m0streng0.com/books/the-three-body-problem/)
 <!-- BLOG-POST-LIST:END -->
