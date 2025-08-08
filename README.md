@@ -18,8 +18,8 @@
 I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-cybersecurite/).
 
 - 🐧 I'm always interacting with Linux, no matter what !
-- 🚩 Active CTF player, being part of **TEAM PORTUGAL** in ECSC 2023, and ECSC 2024.
-- 🌴 In my free time, I'm compiling DWM in ArchLinux.
+- 🚩 Active CTF player, being part of **TEAM PORTUGAL** in ECSC 2023, 2024 and 2025.
+- 🌴 In my free time, I'm compiling DWM in ArchLinux. (moved to NixOS)
 
 ### 🛠️ Programming Languages
 
