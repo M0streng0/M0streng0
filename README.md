@@ -29,6 +29,7 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ### ✍🏻 The newest thing on my site :
