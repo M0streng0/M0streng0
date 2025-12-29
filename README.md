@@ -34,9 +34,9 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 
 ### ✍🏻 The newest thing on my site :
 <!-- BLOG-POST-LIST:START -->
+- [Wake Up Dead Man: A Knives Out Mystery](https://m0streng0.com/movies/wake-up-dead-man/)
 - [Drive](https://m0streng0.com/movies/drive/)
 - [Death&#39;s End](https://m0streng0.com/books/deaths-end/)
 - [My Nixos Experience](https://m0streng0.com/posts/my-nixos-experience/)
 - [Black Mirror](https://m0streng0.com/tvshows/black-mirror/)
-- [The Dark Forest](https://m0streng0.com/books/the-dark-forest/)
 <!-- BLOG-POST-LIST:END -->
