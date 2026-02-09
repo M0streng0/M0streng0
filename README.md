@@ -34,9 +34,9 @@ I'm a full-time cybersecurity student at [EPITA](https://www.epita.fr/bachelor-c
 
 ### ✍🏻 The newest thing on my site :
 <!-- BLOG-POST-LIST:START -->
+- [The Man in the High Castle](https://m0streng0.com/books/the-man-in-the-high-castle/)
 - [Tailscale in all eReaders](https://m0streng0.com/tutorials/tailscale-ereaders/)
 - [The Thursday Murder Club](https://m0streng0.com/movies/the-thursday-murder-club/)
 - [Wake Up Dead Man: A Knives Out Mystery](https://m0streng0.com/movies/wake-up-dead-man/)
 - [Drive](https://m0streng0.com/movies/drive/)
-- [Death&#39;s End](https://m0streng0.com/books/deaths-end/)
 <!-- BLOG-POST-LIST:END -->
